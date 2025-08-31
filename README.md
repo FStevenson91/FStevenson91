@@ -1,6 +1,6 @@
 # 🚀 About Me  
 
-Hi! 👋🏼 I'm Felipe, I initially studied Gastronomy,  obtaining a Master degree in that field.  
+Hi! 👋🏼 I'm Felipe, I initially studied Culinary Arts,  obtaining a degree in that field.  
 
 I'm a person who is always craving for new knowledge, professional and personal growth, so in 2024 I decided to reinvent myself. I started a new journey in an area I was always passionate about: programming.  
 

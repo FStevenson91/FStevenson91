@@ -2,11 +2,11 @@
 
 Hi! 👋🏼 I'm Felipe, I initially studied Gastronomy,  obtaining a Master degree in that field.  
 
-I'm a person who is always craving for new knowledge, professional and personal growth, so in 2024 I decided to reinvent myself. I started a new journey in an area I was always passionate about: **programming**.  
+I'm a person who is always craving for new knowledge, professional and personal growth, so in 2024 I decided to reinvent myself. I started a new journey in an area I was always passionate about: programming.  
 
-As part of my training in this new web development career, I developed competencies in many technologies: **HTML, CSS, JavaScript, TypeScript, Git, NodeJS, Express, NestJS, React, MongoDB, PostgreSQL**, and working frameworks like **Agile working and Scrum**.  
+As part of my training in this new web development career, I developed competencies in many technologies: HTML, CSS, JavaScript, TypeScript, Git, NodeJS, Express, NestJS, React, MongoDB, PostgreSQL, and working frameworks like Agile working and Scrum.  
 
-Being a person attracted to order and logic, I specialized in **BackEnd development**. I believe that every solution to most problems can be found in an organized database architecture and a clean business logic.  
+Being a person attracted to order and logic, I specialized in BackEnd development. I believe that every solution to most problems can be found in an organized database architecture and a clean business logic.  
 
 I firmly believe that these two aspects of programming are the core of every solution, and my plan is to master them.
 

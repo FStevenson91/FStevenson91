@@ -8,6 +8,7 @@ that explains to operators what the platform finds and recommends.
 I build RAG pipelines on PostgreSQL and pgvector, validate every answer before it is served, evaluate daily against production with RAGAS, and harden the system against prompt injection and cross-tenant data leaks.
   
 My background is backend (Python, FastAPI, TypeScript, Node.js, PostgreSQL). I moved into software in 2024 after a first career in Culinary Arts.
+
 ---
 
 ## 🛠️ My Tech Stack

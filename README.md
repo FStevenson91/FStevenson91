@@ -2,11 +2,12 @@
 
 Hi! 👋 I'm Felipe, a Backend & AI Engineer from Santiago, Chile.
   
-I'm in charge of the AI layer at PhysaFlow, a decision copilot for data center operators running in production on AWS Bedrock. I build RAG pipelines on PostgreSQL and pgvector,
-validate every answer before it is served, evaluate daily against production with RAGAS, and harden the system against prompt injection and cross-tenant data leaks.
+I work at PhysaFlow, a US-based startup that helps data center operators find and put to work the stranded capacity already inside their facilities. I'm in charge of the AI layer, a copilot in production on AWS Bedrock 
+that explains to operators what the platform finds and recommends.
   
-My background is backend (Python, FastAPI, TypeScript, NodeJS, PostgreSQL). I moved into software in 2024 after a first career in Culinary Arts.
-
+I build RAG pipelines on PostgreSQL and pgvector, validate every answer before it is served, evaluate daily against production with RAGAS, and harden the system against prompt injection and cross-tenant data leaks.
+  
+My background is backend (Python, FastAPI, TypeScript, Node.js, PostgreSQL). I moved into software in 2024 after a first career in Culinary Arts.
 ---
 
 ## 🛠️ My Tech Stack
